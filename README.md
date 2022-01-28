@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Santiago
+#### I am  Software Developer
+![I am  Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Santibio/Santibio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have training in FullStack Development and experience developing Web applications. I am looking for new challenges where I can contribute from my experience and knowledge within the MERN or PERN Stacks
 
-Here are some ideas to get you started:
+Skills: ES6+ / REACT / HTML / CSS / NodeJS / Express / PostgreSQL / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Typescrypt and Firebase 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Santibio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://santibio.github.io/)  
+
