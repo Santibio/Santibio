@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Santiago
 #### I am  Software Developer
-![I am  Software Developer]
+
 I have training in FullStack Development and experience developing Web applications. I am looking for new challenges where I can contribute from my experience and knowledge within the MERN or PERN Stacks
 
 Skills: ES6+ / REACT / HTML / CSS / NodeJS / Express / PostgreSQL / MongoDB
