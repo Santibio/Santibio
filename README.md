@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Santiago
 #### I am  Software Developer
-![I am  Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am  Software Developer]("./perfil.jpg")
 
 I have training in FullStack Development and experience developing Web applications. I am looking for new challenges where I can contribute from my experience and knowledge within the MERN or PERN Stacks
 
