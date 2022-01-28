@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **santiagobiolett@gmail.com**
 
-- ⚡ Fun fact **Coffe lover**
+- ☕ I'm Coffe ❤️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
