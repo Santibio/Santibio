@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
-<h3 align="center">A Software developer from Córdoba, Argentina</h3>
+<h3 align="center">A Software developer from Córdoba, Argentina 📍</h3>
 
 - 🔭 I’m currently working on [Memories Social media](https://memories-app-project009.netlify.app/)
 
