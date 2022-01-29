@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A Software developer from Córdoba, Argentina 📍</h3>
+![Alt text](https://external-preview.redd.it/g-P3AQqFtoMYggLbwnjpt4nUdNhJ47SESejQA6XIZX4.jpg?auto=webp&s=0ca5f9bd98a5746ab0d7311fadda5b5d7b2d1d82)
 
 - 🔭 I’m currently working on [Memories Social media](https://memories-app-project009.netlify.app/)
 
