@@ -9,7 +9,7 @@ if (sad() === true) {
 }
 ```
 
-- 🔭 I’m currently working on [Memories Social media](https://memories-app-project009.netlify.app/)
+- 🔭 I’m currently working in Mercado Libre
 
 - 🌱 I’m currently learning **Typescrypt and Firebase**
 
